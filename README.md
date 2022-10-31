@@ -1,8 +1,7 @@
-# multi-docker
+# A continuous integration workflow for multiple Docker-images.
 
 In progress: This is a Fibonacci-sequence calculator built with multiple Docker-containers, tested with Github Actions and deployed to AWS. 
 
-A continuous integration workflow for multiple Docker-images.
 
 ### Purpose of the different services in the docker-compose.yml file:
 
